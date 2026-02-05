@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+*.log
+
+appsettings.Development.json
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
